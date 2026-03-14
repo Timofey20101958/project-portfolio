@@ -3,4 +3,4 @@
 в нем можно _добавлять, обновлять и удолять свои проекы_,
 присутсвует понятный интерфейс.
 Возможно проект будет обновляться и доробатываться
-(https://myoctocat.com/assets/images/base-octocat.svg)
+!(https://myoctocat.com/assets/images/base-octocat.svg)
